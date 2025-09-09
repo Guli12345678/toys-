@@ -1,5 +1,5 @@
 import React from "react";
-import flower from "../../assets/flower.png";
+import flower from "../../assets/flower2.png";
 import car from "../../assets/car.png";
 import camera from "../../assets/camera.png";
 import bunny from "../../assets/bunny.png";

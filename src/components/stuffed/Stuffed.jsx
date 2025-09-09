@@ -1,5 +1,5 @@
 import React from "react";
-import teddy from "../../assets/teddy.png";
+import teddy from "../../assets/teddy2.png";
 import plush from "../../assets/plush.png";
 import doggy from "../../assets/doggy.png";
 import cat from "../../assets/cat.png";
