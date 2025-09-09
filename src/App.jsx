@@ -3,7 +3,7 @@ import Category from "./components/category/Category";
 import Footer from "./components/footer/Footer";
 import Header from "./components/header/Header";
 import Hero from "./components/hero/Hero";
-import Story from "./components/story/story";
+import Story from "./components/story/Story";
 import Stuffed from "./components/stuffed/Stuffed";
 import SubHeader from "./components/subheader/SubHeader";
 import Subscribe from "./components/subscribe/Subscribe";
