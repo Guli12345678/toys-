@@ -24,7 +24,7 @@ const Template = () => {
           </button>
         </div>
         <div>
-          <img className="" src={spider} alt="" />
+          <img className="mt-14" src={spider} alt="" />
         </div>
       </div>
     </div>
