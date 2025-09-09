@@ -5,7 +5,7 @@ const Story = () => {
   return (
     <div>
       <div
-        className="w-full bg-no-repeat h-[700px] bg-cover bg-center  items-center flex justify-center text-center text-white "
+        className="w-full bg-no-repeat h-[700px] bg-cover bg-center  items-center flex justify-center text-center text-white mt-30"
         style={{ backgroundImage: `url(${story})` }}
       >
         <div className="w-[800px] h-[232px]">

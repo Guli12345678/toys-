@@ -1,5 +1,8 @@
 import React from "react";
 import flower from "../../assets/flower.png";
+import car from "../../assets/car.png";
+import camera from "../../assets/camera.png";
+import bunny from "../../assets/bunny.png";
 
 const Wooden = () => {
   return (
@@ -21,7 +24,7 @@ const Wooden = () => {
         </div>
         <div className="flex justify-center mt-[55px]">
           <div className="w-[270px] h-[328px] shadow-lg text-center">
-            <img className="flex justify-self-center" src={flower} alt="" />
+            <img className="flex justify-self-center" src={car} alt="" />
             <h4 className="mt-4">Teddy Bear</h4>
             <button className="mt-4 w-[102px] h-[34px] rounded-full text-white bg-[#A5C926]">
               $ 30.00 USD
@@ -30,7 +33,7 @@ const Wooden = () => {
         </div>
         <div className="flex justify-center mt-[55px]">
           <div className="w-[270px] h-[328px] shadow-lg text-center">
-            <img className="flex justify-self-center" src={flower} alt="" />
+            <img className="flex justify-self-center" src={camera} alt="" />
             <h4 className="mt-4">Teddy Bear</h4>
             <button className="mt-4 w-[102px] h-[34px] rounded-full text-white bg-[#A5C926]">
               $ 30.00 USD
@@ -39,7 +42,7 @@ const Wooden = () => {
         </div>
         <div className="flex justify-center mt-[55px]">
           <div className="w-[270px] h-[328px] shadow-lg text-center">
-            <img className="flex justify-self-center" src={flower} alt="" />
+            <img className="flex justify-self-center" src={bunny} alt="" />
             <h4 className="mt-4">Teddy Bear</h4>
             <button className="mt-4 w-[102px] h-[34px] rounded-full text-white bg-[#A5C926]">
               $ 30.00 USD

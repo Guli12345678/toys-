@@ -1,5 +1,8 @@
 import React from "react";
 import teddy from "../../assets/teddy.png";
+import plush from "../../assets/plush.png";
+import doggy from "../../assets/doggy.png";
+import cat from "../../assets/cat.png";
 
 const Stuffed = () => {
   return (
@@ -21,7 +24,7 @@ const Stuffed = () => {
         </div>
         <div className="flex justify-center mt-[55px]">
           <div className="w-[270px] h-[328px] shadow-lg text-center">
-            <img className="flex justify-self-center" src={teddy} alt="" />
+            <img className="flex justify-self-center" src={plush} alt="" />
             <h4 className="mt-4">Teddy Bear</h4>
             <button className="mt-4 w-[102px] h-[34px] rounded-full text-white bg-[#A5C926]">
               $ 30.00 USD
@@ -30,7 +33,7 @@ const Stuffed = () => {
         </div>
         <div className="flex justify-center mt-[55px]">
           <div className="w-[270px] h-[328px] shadow-lg text-center">
-            <img className="flex justify-self-center" src={teddy} alt="" />
+            <img className="flex justify-self-center" src={doggy} alt="" />
             <h4 className="mt-4">Teddy Bear</h4>
             <button className="mt-4 w-[102px] h-[34px] rounded-full text-white bg-[#A5C926]">
               $ 30.00 USD
@@ -39,7 +42,7 @@ const Stuffed = () => {
         </div>
         <div className="flex justify-center mt-[55px]">
           <div className="w-[270px] h-[328px] shadow-lg text-center">
-            <img className="flex justify-self-center" src={teddy} alt="" />
+            <img className="flex justify-self-center" src={cat} alt="" />
             <h4 className="mt-4">Teddy Bear</h4>
             <button className="mt-4 w-[102px] h-[34px] rounded-full text-white bg-[#A5C926]">
               $ 30.00 USD
